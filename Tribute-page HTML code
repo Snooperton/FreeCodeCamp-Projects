@@ -1,0 +1,30 @@
+<main id="main">
+  <h1 id="title">W. Edwards Deming</h1>
+  <p> "A System of Profound Knowledge" </p>
+  
+  <div id="img-div">
+    <img id="image" src="https://images.gr-assets.com/authors/1404394003p5/310261.jpg">
+    <p id="img-caption"><em>A photo of Deming frequently used in his books</em></p>
+  </div>
+  <div id="tribute-info">
+    <ul>
+      <li>Born on 14th of October 1900 in Sioux City, Iowa.</li>
+      <li>Most know for his school of thought "A System of profound Knowledge" which contains four parts.</li>
+      <ol>
+        <li>Appreciation of a system</li>
+        <li>Knowledge of variation</li>
+        <li>Theory of knowledge</li>
+        <li>Knowledge of psychology</li>        
+      </ol>
+      <li>Had 14 key principles to offer managers to improve business effectives.</li>
+      <li>Had the "Seven Deadly Diseases" and "Lesser Category of Obstacles".</li>
+      <li>Created the Plan-Do-Study-Act (PDSA) cycle.</li>
+      <li>Was very influential in helping Japan make high-quality products.</li>
+      <li>Has received several rewards such as National Medal of Techonology in 1987.</li>
+      <li>Passed away on 20th of December 1993 in Washington DC.
+    </ul>
+  </div>
+  <div id="external-link">
+    <p>You can read more about W.Edwards Deming on <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/W._Edwards_Deming">Wikipedia</a>.</p>
+  </div>
+</main>
