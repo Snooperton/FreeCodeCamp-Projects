@@ -25,6 +25,8 @@
     </ul>
   </div>
   <div id="external-link">
-    <p>You can read more about W.Edwards Deming on <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/W._Edwards_Deming">Wikipedia</a>.</p>
+    <p>You can read more about W.Edwards Deming on 
+    <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/W._Edwards_Deming">Wikipedia</a>.
+    </p>
   </div>
 </main>
