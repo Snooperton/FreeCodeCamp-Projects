@@ -1,7 +1,17 @@
 # FreeCodeCamp-Projects
 
-Build a Tribute Page Project
+List of Freecodecamp projects that have been completed with the code.
 
-CSS code
+# Completed Projects
 
-HTML code
+Build a Tribute Page
+
+# To Be Completed
+
+Build a Survey Form
+
+Build a Product Landing Page
+
+Build a Technical Documentation Page
+
+Build a Personal Portfolio Webpage
