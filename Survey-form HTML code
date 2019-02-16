@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 <h1 id="title">Survey Form</h1>
 <p id="description">Help us improve our service!</p>
 <form id="survey-form">
@@ -46,4 +49,8 @@
   <label for="comments">Additional comments:
   </label>
   <textarea id="comments" style="height:50px; width:500px;resize:vertical;" placeholder="Write comments here"></textarea>
-  
+    <br>
+  <button id="submit" type="submit">Submit</button>
+</form>
+</body>
+</html>
