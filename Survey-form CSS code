@@ -1,0 +1,26 @@
+html,
+body{
+  display: block;
+  margin: 0;
+  padding: 1em;
+  background-color: #ffcd97;
+  font-family: monospace;
+  text-align: center;
+}
+
+#title {
+  color: #4a2901;
+  font-size: 40px;
+}
+
+#outer {
+  display:block;
+  margin: 3em 8em;
+  padding: 1em;
+  background-color: #fff;  
+}
+
+#description {
+  font-size: 20px;
+  font-weight: 550;
+}
