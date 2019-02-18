@@ -2,6 +2,7 @@
 <html>
 <body>
 <h1 id="title">Survey Form</h1>
+<div id="outer">
 <p id="description">Help us improve our service!</p>
 <form id="survey-form">
   <label for="name" id="name-label">Full Name:</label> 
@@ -52,5 +53,6 @@
     <br>
   <button id="submit" type="submit">Submit</button>
 </form>
+</div>
 </body>
 </html>
