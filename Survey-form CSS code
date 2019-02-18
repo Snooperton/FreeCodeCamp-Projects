@@ -24,3 +24,25 @@ body{
   font-size: 20px;
   font-weight: 550;
 }
+
+#name-label {
+  display: inline-block;
+  text-align: justify;
+  width: 30%;
+}
+
+#name {
+  display: inline-block;
+  width: 30%
+}
+
+#email-label {
+  display: inline-block;
+  text-align: justify;
+  width: 30%
+}
+
+#email {
+  display: inline-block;
+  width: 30%
+}
