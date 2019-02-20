@@ -46,3 +46,56 @@ body{
   display: inline-block;
   width: 30%
 }
+
+#number-label {
+  display: inline-block;
+  text-align: justify;
+  width: 30%
+}
+
+#number {
+  display: inline-block;
+  width: 30%;
+}
+
+#dropdown-label {
+  display: inline-block;
+  text-align: justify;
+  width: 30%
+}
+
+#dropdown {
+  display: inline-block;
+  width: 30%;
+}
+
+#radiobuttons-label {
+  display: inline-block;
+  text-align: justify;
+  width: 62%
+}
+
+#radiobuttons {
+  display: inline-block;
+}
+
+#checkboxes-label {
+  display: inline-block;
+  text-align: justify;
+  width: 62%
+}
+
+#checkboxes {
+  display: inline-block;
+}
+
+#comments-label {
+  display: inline-block;
+  text-align: justify;
+  vertical-align: top;
+  width: 62%;
+}
+
+#comments {
+  display: inline-block;
+}
