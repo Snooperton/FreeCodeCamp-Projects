@@ -1,0 +1,101 @@
+html,
+body{
+  display: block;
+  margin: 0;
+  padding: 1em;
+  background-color: #ffcd97;
+  font-family: monospace;
+  text-align: center;
+}
+
+#title {
+  color: #4a2901;
+  font-size: 40px;
+}
+
+#outer {
+  display:block;
+  margin: 3em 8em;
+  padding: 1em;
+  background-color: #fff;  
+}
+
+#description {
+  font-size: 20px;
+  font-weight: 550;
+}
+
+#name-label {
+  display: inline-block;
+  text-align: justify;
+  width: 30%;
+}
+
+#name {
+  display: inline-block;
+  width: 30%
+}
+
+#email-label {
+  display: inline-block;
+  text-align: justify;
+  width: 30%
+}
+
+#email {
+  display: inline-block;
+  width: 30%
+}
+
+#number-label {
+  display: inline-block;
+  text-align: justify;
+  width: 30%
+}
+
+#number {
+  display: inline-block;
+  width: 30%;
+}
+
+#dropdown-label {
+  display: inline-block;
+  text-align: justify;
+  width: 30%
+}
+
+#dropdown {
+  display: inline-block;
+  width: 30%;
+}
+
+#radiobuttons-label {
+  display: inline-block;
+  text-align: justify;
+  width: 62%
+}
+
+#radiobuttons {
+  display: inline-block;
+}
+
+#checkboxes-label {
+  display: inline-block;
+  text-align: justify;
+  width: 62%
+}
+
+#checkboxes {
+  display: inline-block;
+}
+
+#comments-label {
+  display: inline-block;
+  text-align: justify;
+  vertical-align: top;
+  width: 62%;
+}
+
+#comments {
+  display: inline-block;
+}
