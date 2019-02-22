@@ -21,7 +21,7 @@
     <option value="bad">Bad</option>
   </select>
   <br>
-    <label for="radiobuttons">Radio buttons:</label>
+    <label id="radiobuttons-label" for="radiobuttons">Radio buttons:</label>
     <ul style="list-style: none;">
       <li>
         <label>Satisfying<input id="radiobuttons" type="radio" value="1" name="radio-opinion">
@@ -36,7 +36,7 @@
        </label>
      </li>
    </ul>
-  <label for="checkboxes">Checkboxes:</label>
+  <label id="checkboxes-label" for="checkboxes">Checkboxes:</label>
     <ul style="list-style: none;">
       <li>
         <label>option1<input id="checkboxes" type="checkbox" value="1" name="checkboxesopinion">
@@ -47,7 +47,7 @@
         </label>
       </li>
   </ul>
-  <label for="comments">Additional comments:
+  <label id="comments-label" for="comments">Additional comments:
   </label>
   <textarea id="comments" style="height:50px; width:500px;resize:vertical;" placeholder="Write comments here"></textarea>
     <br>
