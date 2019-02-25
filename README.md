@@ -6,9 +6,9 @@ List of Freecodecamp projects that have been completed with the code.
 
 Build a Tribute Page
 
-# To Be Completed
-
 Build a Survey Form
+
+# To Be Completed
 
 Build a Product Landing Page
 
