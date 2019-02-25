@@ -3,6 +3,11 @@
     <head> 
     </head>
     <body>
-
+      <header id="header">
+        <img id="header-img" src="#" alt="#"/>
+        <nav id="nav-bar">
+          
+        </nav>
+      </header>
     </body>
   </html>
