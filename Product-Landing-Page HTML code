@@ -8,22 +8,35 @@
         <nav id="nav-bar">
          <ul>
             <li>
-              <a class="nav-link" href="#">
+              <a class="nav-link" href="#what-we-do">
                 
               </a>
             </li>
             <li>
-              <a class="nav-link" href="#">
+              <a class="nav-link" href="#video">
                 
               </a>
             </li>
             <li>
-              <a class="nav-link" href="#">
+              <a class="nav-link" href="#products">
                 
               </a>
             </li>
           </ul> 
         </nav>
+        
       </header>
+      
+      <div class="container">
+        <section id="what-we-do">
+          
+        </section>
+        <section id="video">
+          
+        </section>
+        <section id="products">
+          
+        </section>
+      </div>
     </body>
   </html>
