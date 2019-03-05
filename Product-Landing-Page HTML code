@@ -38,5 +38,12 @@
           
         </section>
       </div>
+      <div class="container">
+        <form id="form" action="https://www.freecodecamp.com/email-submit">
+          <input name="email" id="email" type="email" placeholder="Enter your email here" required/>
+          <input id="submit" type="submit" value="Done!" class="Button">
+          </input>
+        </form>
+      </div>
     </body>
   </html>
