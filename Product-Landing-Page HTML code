@@ -4,22 +4,22 @@
     </head>
     <body>
       <header id="header">
-        <img id="header-img" src="#" alt="#"/>
+        <img id="header-img" src="https://image.flaticon.com/icons/png/512/66/66565.png" alt="Icecream logo"/>
         <nav id="nav-bar">
          <ul>
             <li>
               <a class="nav-link" href="#what-we-do">
-                
+                What We Do
               </a>
             </li>
             <li>
               <a class="nav-link" href="#product-video">
-                
+                Demonstration
               </a>
             </li>
             <li>
               <a class="nav-link" href="#products">
-                
+                Product Information
               </a>
             </li>
           </ul> 
@@ -29,10 +29,11 @@
       
       <div class="container">
         <section id="what-we-do">
-          
+         <h2>Our Intentions</h2>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dui mauris, ornare nec felis eu, dictum luctus ipsum. Donec sed ullamcorper massa, non porttitor leo. Nulla sed facilisis mi. Integer vel faucibus libero. Integer lorem metus, auctor et consectetur ut, ultrices sit amet ante.</p>
         </section>
         <section id="product-video">
-          <iframe id="video" src="#"></iframe>
+          <iframe id="video" src="https://www.youtube-nocookie.com/embed/VaIL0n8OzZ0"></iframe>
         </section>
         <section id="products">
           
