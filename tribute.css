@@ -1,0 +1,21 @@
+#main {
+  text-align: center;
+  margin: auto 525px;
+  padding: auto;
+}
+
+#img-div {
+  margin: auto;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+
+#tribute-info {
+  padding: auto;
+  margin: auto;
+}
