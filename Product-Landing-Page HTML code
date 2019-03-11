@@ -36,7 +36,32 @@
           <iframe id="video" src="https://www.youtube-nocookie.com/embed/VaIL0n8OzZ0"></iframe>
         </section>
         <section id="products">
-          
+         <div id="cup-icecream">
+            <div class="product-name">
+              Cup Iceream
+            </div>
+            <ol>
+              <li>Lorem ipsum</li>
+              <li>Lorem ipsum</li>
+            </ol>
+            <h3 class="price">$1.00</h3>
+            <button class="Button-product">
+              Order
+            </button>
+          </div>
+          <div id="cone-icecream">
+            <div class="product-name">
+              Cone Icecream
+            </div>
+            <ol>
+              <li>Lorem ipsum</li>
+              <li>Lorem ipsum</li>
+            </ol>
+            <h3 class="price">$1.00</h3>
+            <button class="Button-product">
+              Order
+            </button>
+          </div> 
         </section>
       </div>
       <div class="container">
@@ -46,5 +71,8 @@
           </input>
         </form>
       </div>
+      <footer>
+      <p id="copyright">Copyright Lorem ipsum</p>
+      </footer>
     </body>
   </html>
